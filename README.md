@@ -4,6 +4,15 @@ I am an **Aspiring AI Engineer & Full-Stack Developer** focused on building prac
 
 ---
 
+### ⚡ My Philosophy as a Builder
+
+*   **High-Velocity Execution:** I move fast from concept to implementation, prioritizing working code and rapid prototyping.
+*   **Creative Problem Solving:** I thrive on finding out-of-the-box solutions for complex integration challenges and system architectures.
+*   **Critical AI Orchestration:** I don't just copy-paste AI outputs. I actively challenge LLMs, refine context engineering boundaries, and audit code to force the highest-quality, most optimized answers.
+*   **Structured Process Design:** I build with SRE-grade organization, ensuring deterministic workflows, clean documentation, and modular, maintainable code structures.
+
+---
+
 ### 🚀 Key Projects & Publications
 
 *   **[Engineering New Beginnings](https://github.com/aragaobruno/engineering-new-beginnings)**: My tech-memoir & developer's guide on managing cognitive overhead and reengineering life. It details my journey from a burned-out SRE systems architect to building a high-margin, automated lifestyle business. *(Full Markdown chapters and downloadable PDF available!)*
