@@ -1,0 +1,26 @@
+# 👋 Hi, I'm Bruno Aragão Vivan
+
+I am an **Aspiring AI Engineer & Full-Stack Developer** focused on building practical agentic workflows, custom toolchains, and modern web applications. I enjoy experimenting with new AI protocols, automation tools, and learning by building real-world solutions.
+
+---
+
+### 🚀 Key Projects
+
+*   **[toolbelt](https://github.com/aragaobruno/toolbelt)**: A modular, Unix-style AI Agent Skill harness and SRE runbook toolkit. Designed to run Model Context Protocol (MCP) integrations, with custom tools built in Python and Node.js.
+*   **MindGuard AI**: An AI-powered emotional support and cognitive-behavioral resilience platform designed for high-pressure professional environments. Uses Gemini API and cognitive behavioral techniques (CBT) to help users manage work-related stress. *(Private repository - Closed Source)*
+
+---
+
+### 🛠️ Tech Stack & Learning Path
+
+*   **AI & Agentic Systems:** Model Context Protocol (MCP), Gemini API, Prompt Design, Agentic workflows.
+*   **Languages:** JavaScript / TypeScript (Node.js), Python, SQL.
+*   **Full-Stack & Backend:** React, Express, Prisma, Supabase, PostgreSQL, TailwindCSS.
+*   **Developer Tooling:** Git, GitHub, Docker, npm, Python uv.
+
+---
+
+### 📬 Contact
+
+*   **GitHub:** [github.com/aragaobruno](https://github.com/aragaobruno)
+*   **Email:** aragaobruno@gmail.com
