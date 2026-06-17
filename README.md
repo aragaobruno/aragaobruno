@@ -4,8 +4,9 @@ I am an **Aspiring AI Engineer & Full-Stack Developer** focused on building prac
 
 ---
 
-### 🚀 Key Projects
+### 🚀 Key Projects & Publications
 
+*   **[Engineering New Beginnings](https://github.com/aragaobruno/engineering-new-beginnings)**: My tech-memoir & developer's guide on managing cognitive overhead and reengineering life. It details my journey from a burned-out SRE systems architect to building a high-margin, automated lifestyle business. *(Full Markdown chapters and downloadable PDF available!)*
 *   **[toolbelt](https://github.com/aragaobruno/toolbelt)**: A modular, Unix-style AI Agent Skill harness and SRE runbook toolkit. Designed to run Model Context Protocol (MCP) integrations, with custom tools built in Python and Node.js.
 *   **MindGuard AI**: An AI-powered emotional support and cognitive-behavioral resilience platform designed for high-pressure professional environments. Uses Gemini API and cognitive behavioral techniques (CBT) to help users manage work-related stress. *(Private repository - Closed Source)*
 
