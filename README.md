@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Bruno Aragão Vivan
 
-**AI Engineer & Full-Stack Developer**  
+**Aspiring AI Engineer & Full-Stack Developer**  
 Focused on AI Agent workflows, process automations (n8n/Docker), and SaaS solutions.
+
+> ⚡ **Power-User of Antigravity & Claude:** I leverage advanced agentic assistants to build, refactor, and execute any kind of technical work, custom integrations, and software engineering tasks at scale with speed and SRE-grade precision.
 
 ---
 
