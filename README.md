@@ -3,7 +3,7 @@
 **Aspiring AI Engineer & Full-Stack Developer**  
 Focused on AI Agent workflows, process automations (n8n/Docker), and SaaS solutions.
 
-> ⚡ **Power-User of Antigravity & Claude:** I leverage advanced agentic assistants to build, refactor, and execute any kind of technical work, custom integrations, and software engineering tasks at scale with speed and SRE-grade precision.
+> ⚡ **Power-User of Antigravity & Claude:** I leverage advanced agentic assistants to build, refactor, and execute technical work, custom integrations, and software engineering tasks at scale with clean, high-quality precision.
 
 ---
 
@@ -37,21 +37,33 @@ Focused on AI Agent workflows, process automations (n8n/Docker), and SaaS soluti
 
 ## ⚡ Builder Philosophy
 
-*   **High-Velocity Execution:** I build functional prototypes quickly, shifting rapidly from SRE architectural design to production-grade deployments.
+*   **High-Velocity Execution:** I build functional prototypes quickly, shifting rapidly from architectural design to solid deployments.
 *   **Creative Problem Solving:** Out-of-the-box system integration and API orchestration to solve complex B2B workflow bottlenecks.
-*   **Critical AI Collaboration:** I don't passively copy AI outputs. I actively challenge and guide LLMs, enforcing deterministic constraints, context compression, SRE-grade safety, and clean codebases.
-*   **Structured Process Design:** Code is only as good as its maintainability. I build modular toolchains with robust test coverage and SRE rigor.
+*   **Critical AI Collaboration:** I don't passively copy AI outputs. I actively challenge and guide LLMs, enforcing deterministic constraints, context compression, security boundaries, and clean codebases.
+*   **Structured Process Design:** Code is only as good as its maintainability. I build modular toolchains with robust test coverage.
 
 ---
 
 ## 🚀 Key Projects & Portfolios
 
-*   **[toolbelt](https://github.com/aragaobruno/toolbelt) (AI Agent Skills & SRE Toolchain)**  
-    *A collection of context-compactors, smart git PR generators, and automated test bootstrappers designed to optimize LLM interactions and agent workflows.*  
-    `Python` `Node.js` `google-genai` `pytest` `AST Parsing`
-    
-*   **[Engineering New Beginnings](https://github.com/aragaobruno/engineering-new-beginnings) (Tech Memoir & SRE Guide)**  
-    *A developer's blueprint on life engineering, transitioning from high-stress SRE burnout to building automated, self-sustaining micro-SaaS and lifestyle businesses.*  
+*   **[ai-video-factory](https://github.com/aragaobruno/ai-video-factory) (Local AI Video Generator)**  
+    *A local multi-agent automated short video generator designed to optimize GPU/VRAM scheduling on consumer-grade hardware (6GB RTX 4050) running sequential LLM, TTS, SD, and Whisper models.*  
+    `FastAPI` `Vite` `ComfyUI API` `Kokoro TTS` `MoviePy`
+
+*   **[defensa-ai-architecture](https://github.com/aragaobruno/defensa-ai-architecture) (Case Study & Design Patterns)**  
+    *A detailed system architecture showcase explaining security boundaries, local PII sanitization for LGPD compliance, and multi-agent queue processing in a legal-tech SaaS.*  
+    `System Design` `Mermaid Diagrams` `LGPD Compliance` `ADRs`
+
+*   **[brazilian-legal-calculators](https://github.com/aragaobruno/brazilian-legal-calculators) (LEP Regime Progression Engine)**  
+    *A portable, zero-dependency TypeScript library for calculating prison regime progression and sentencing calculations under Brazilian Criminal Execution Law (LEP).*  
+    `TypeScript` `Jest` `Package` `LEP`
+
+*   **[toolbelt](https://github.com/aragaobruno/toolbelt) (AI Agent Skills & Toolchain)**  
+    *A collection of context-compactors, smart git PR generators, and automated test bootstrappers designed to optimize LLM interactions and agent workflows. Backed by automated Jest/pytest unit tests and continuous integration.*  
+    `Python` `Node.js` `GitHub Actions` `Jest` `pytest`
+
+*   **[Engineering New Beginnings](https://github.com/aragaobruno/engineering-new-beginnings) (Tech Memoir)**  
+    *A developer's blueprint on life engineering, transitioning from corporate burnout to building automated, self-sustaining micro-SaaS and lifestyle projects.*  
     `Markdown` `PDF Compilation` `Gemini Translation Pipeline`
 
 *   **MindGuard AI (Private Repo)**  
