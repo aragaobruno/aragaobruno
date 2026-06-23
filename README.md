@@ -74,5 +74,4 @@ Focused on AI Agent workflows, process automations (n8n/Docker), and SaaS soluti
 
 ## 📬 Connect With Me
 
-*   **LinkedIn:** [linkedin.com/in/bruno-aragao-vivan](https://www.linkedin.com/in/bruno-aragao-vivan)
 *   **Email:** [aragaobruno@gmail.com](mailto:aragaobruno@gmail.com)
