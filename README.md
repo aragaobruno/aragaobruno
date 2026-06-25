@@ -12,6 +12,7 @@ Developing agentic workflows, multi-agent orchestrations, MCP integrations, and 
 ### AI & Agentic Engineering
 <p align="left">
   <img src="https://img.shields.io/badge/CrewAI-F15A24?style=for-the-badge" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/ScrapeGraphAI-4F46E5?style=for-the-badge" alt="ScrapeGraphAI" />
   <img src="https://img.shields.io/badge/MCP-0052FF?style=for-the-badge&logo=google&logoColor=white" alt="Model Context Protocol" />
   <img src="https://img.shields.io/badge/Gemini_API-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini API" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-009688?style=for-the-badge" alt="Prompt Engineering" />
@@ -38,7 +39,7 @@ Developing agentic workflows, multi-agent orchestrations, MCP integrations, and 
 
 ## ⚡ Builder Philosophy
 
-*   **Multi-Agent Orchestration:** Designing and deploying collaborative crews using **CrewAI** for complex, sequential, or consensus-based tasks.
+*   **Multi-Agent & Graph Workflows:** Designing and deploying collaborative crews using **CrewAI** and intelligent, self-healing scraping pipelines via **ScrapeGraphAI**.
 *   **High-Velocity Execution:** I build functional prototypes quickly, shifting rapidly from architectural design to solid deployments.
 *   **Creative Problem Solving:** Out-of-the-box system integration and API orchestration to solve complex B2B workflow bottlenecks.
 *   **Critical AI Collaboration:** I don't passively copy AI outputs. I actively challenge and guide LLMs, enforcing deterministic constraints, context compression, security boundaries, and clean codebases.
