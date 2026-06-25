@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bruno Aragão Vivan
 
-**Aspiring AI Engineer & Full-Stack Developer**  
-Focused on AI Agent workflows, process automations (n8n/Docker), and SaaS solutions.
+**AI Product Builder & Systems Orchestrator**  
+Developing agentic workflows, multi-agent orchestrations, MCP integrations, and automation systems.
 
 > ⚡ **Power-User of Antigravity & Claude:** I leverage advanced agentic assistants to build, refactor, and execute technical work, custom integrations, and software engineering tasks at scale with clean, high-quality precision.
 
@@ -11,6 +11,7 @@ Focused on AI Agent workflows, process automations (n8n/Docker), and SaaS soluti
 
 ### AI & Agentic Engineering
 <p align="left">
+  <img src="https://img.shields.io/badge/CrewAI-F15A24?style=for-the-badge" alt="CrewAI" />
   <img src="https://img.shields.io/badge/MCP-0052FF?style=for-the-badge&logo=google&logoColor=white" alt="Model Context Protocol" />
   <img src="https://img.shields.io/badge/Gemini_API-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini API" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-009688?style=for-the-badge" alt="Prompt Engineering" />
@@ -37,6 +38,7 @@ Focused on AI Agent workflows, process automations (n8n/Docker), and SaaS soluti
 
 ## ⚡ Builder Philosophy
 
+*   **Multi-Agent Orchestration:** Designing and deploying collaborative crews using **CrewAI** for complex, sequential, or consensus-based tasks.
 *   **High-Velocity Execution:** I build functional prototypes quickly, shifting rapidly from architectural design to solid deployments.
 *   **Creative Problem Solving:** Out-of-the-box system integration and API orchestration to solve complex B2B workflow bottlenecks.
 *   **Critical AI Collaboration:** I don't passively copy AI outputs. I actively challenge and guide LLMs, enforcing deterministic constraints, context compression, security boundaries, and clean codebases.
@@ -47,8 +49,8 @@ Focused on AI Agent workflows, process automations (n8n/Docker), and SaaS soluti
 ## 🚀 Key Projects & Portfolios
 
 *   **[ai-video-factory](https://github.com/aragaobruno/ai-video-factory) (Local AI Video Generator)**  
-    *A local multi-agent automated short video generator designed to optimize GPU/VRAM scheduling on consumer-grade hardware (6GB RTX 4050) running sequential LLM, TTS, SD, and Whisper models.*  
-    `FastAPI` `Vite` `ComfyUI API` `Kokoro TTS` `MoviePy`
+    *A local multi-agent automated short video generator designed to optimize GPU/VRAM scheduling on consumer-grade hardware (6GB RTX 4050) running sequential LLM, TTS, SD, and Whisper models orchestrated via CrewAI.*  
+    `CrewAI` `FastAPI` `Vite` `ComfyUI API` `Kokoro TTS` `MoviePy`
 
 *   **[defensa-ai-architecture](https://github.com/aragaobruno/defensa-ai-architecture) (Case Study & Design Patterns)**  
     *A detailed system architecture showcase explaining security boundaries, local PII sanitization for LGPD compliance, and multi-agent queue processing in a legal-tech SaaS.*  
@@ -75,3 +77,4 @@ Focused on AI Agent workflows, process automations (n8n/Docker), and SaaS soluti
 ## 📬 Connect With Me
 
 *   **Email:** [aragaobruno@gmail.com](mailto:aragaobruno@gmail.com)
+
