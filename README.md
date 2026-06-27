@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Bruno Aragão Vivan
 
-**AI Product Builder & Systems Orchestrator**  
-Developing agentic workflows, multi-agent orchestrations, MCP integrations, and automation systems.
-
-> ⚡ **Power-User of Antigravity & Claude:** I leverage advanced agentic assistants to build, refactor, and execute technical work, custom integrations, and software engineering tasks at scale with clean, high-quality precision.
+**AI Product Builder | Systems Orchestrator | Technical Product Leader**  
+I drive products end-to-end — from discovery to production — using AI agents (Google AntiGravity + Claude) as a multiplier for design and execution. This lets me focus on product architecture, logic flows, and business modeling, delegating syntax, tests, and iteration to the agents.
+> ⚡ **Power-User of Antigravity & Claude:** I don't passively copy AI output. I actively direct, constrain, and review LLMs — enforcing deterministic constraints, security boundaries, and clean codebases — to ship end-to-end validated products.
 
 ---
 
@@ -78,4 +77,5 @@ Developing agentic workflows, multi-agent orchestrations, MCP integrations, and 
 ## 📬 Connect With Me
 
 *   **Email:** [aragaobruno@gmail.com](mailto:aragaobruno@gmail.com)
+- **LinkedIn:** [linkedin.com/in/bruno-aragão-a610555a](https://www.linkedin.com/in/bruno-arag%C3%A3o-a610555a/)
 
