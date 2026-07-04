@@ -48,6 +48,10 @@ I drive products end-to-end — from discovery to production — using AI agents
 
 ## 🚀 Key Projects & Portfolios
 
+*   **[andaluz](https://github.com/aragaobruno/andaluz) (Agent Reliability Kernel)**  
+    *A reference architecture and working MVP demonstrating durable state execution, Human-in-the-Loop (HITL) Temporal pausing, and FinOps real-time token costing for LLM agents in regulated production.*  
+    `Temporal` `LiteLLM` `Python` `Docker` `FinOps`
+
 *   **[ai-video-factory](https://github.com/aragaobruno/ai-video-factory) (Local AI Video Generator)**  
     *A local multi-agent automated short video generator designed to optimize GPU/VRAM scheduling on consumer-grade hardware (6GB RTX 4050) running sequential LLM, TTS, SD, and Whisper models orchestrated via CrewAI.*  
     `CrewAI` `FastAPI` `Vite` `ComfyUI API` `Kokoro TTS` `MoviePy`
@@ -69,7 +73,7 @@ I drive products end-to-end — from discovery to production — using AI agents
     `Markdown` `PDF Compilation` `Gemini Translation Pipeline`
 
 *   **MindGuard AI (Private Repo)**  
-    *An enterprise-grade CBT cognitive resilience app designed for high-stress SRE and DevOps environments.*  
+    *An enterprise-grade CBT cognitive resilience app designed for high-stress engineering and corporate environments.*  
     `React` `Express` `Gemini API` `Supabase`
 
 ---
