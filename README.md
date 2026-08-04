@@ -52,6 +52,10 @@ I drive products end-to-end — from discovery to production — using AI agents
     *A reference architecture and working MVP demonstrating durable state execution, Human-in-the-Loop (HITL) Temporal pausing, and FinOps real-time token costing for LLM agents in regulated production.*  
     `Temporal` `LiteLLM` `Python` `Docker` `FinOps`
 
+*   **[Escudo Família](https://github.com/aragaobruno/escudo-familia) (Live PWA App & Anti-Fraud Protocol)**  
+    *[Live Demo](https://aragaobruno.github.io/escudo-familia/) | A privacy-first, zero-server Progressive Web App (PWA) built to protect vulnerable family members against real-time AI voice-cloning and urgent financial scams.*  
+    `PWA` `TypeScript` `React` `Zero-Server Architecture` `Security`
+
 *   **[ai-video-factory](https://github.com/aragaobruno/ai-video-factory) (Local AI Video Generator)**  
     *A local multi-agent automated short video generator designed to optimize GPU/VRAM scheduling on consumer-grade hardware (6GB RTX 4050) running sequential LLM, TTS, SD, and Whisper models orchestrated via CrewAI.*  
     `CrewAI` `FastAPI` `Vite` `ComfyUI API` `Kokoro TTS` `MoviePy`
@@ -81,5 +85,5 @@ I drive products end-to-end — from discovery to production — using AI agents
 ## 📬 Connect With Me
 
 *   **Email:** [aragaobruno@gmail.com](mailto:aragaobruno@gmail.com)
-- **LinkedIn:** [linkedin.com/in/bruno-aragão-a610555a](https://www.linkedin.com/in/bruno-arag%C3%A3o-a610555a/)
+- **LinkedIn:** [linkedin.com/in/bruno-aragao-vivan](https://www.linkedin.com/in/bruno-aragao-vivan/)
 
