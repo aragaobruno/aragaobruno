@@ -48,6 +48,10 @@ I drive products end-to-end — from discovery to production — using AI agents
 
 ## 🚀 Key Projects & Portfolios
 
+*   **[GLOSA](https://github.com/aragaobruno/glosa-showcase) (Contract × Invoice Auditor with Verifiable AI)**  
+    *[Live Demo](https://glosa-4tap.onrender.com/demo) | Reads a services contract (PDF), checks every line of every invoice and returns overcharges with the clause, the math and the amount to recover — readjustments against official Central Bank indices, SLA credits, cancelled items, duplicates. The LLM only proposes terms; a citation verifier blocks anything not literally in the PDF, and a deterministic engine does the money math. 56/56 planted errors found, 29/29 contract terms extracted correctly in production.*  
+    `Next.js` `TypeScript` `Groq / Ollama` `Supabase` `Vitest` `Docker` `Fail-closed AI`
+
 *   **[andaluz](https://github.com/aragaobruno/andaluz) (Agent Reliability Kernel)**  
     *A reference architecture and working MVP demonstrating durable state execution, Human-in-the-Loop (HITL) Temporal pausing, and FinOps real-time token costing for LLM agents in regulated production.*  
     `Temporal` `LiteLLM` `Python` `Docker` `FinOps`
