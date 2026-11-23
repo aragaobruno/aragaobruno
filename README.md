@@ -48,6 +48,9 @@ I drive products end-to-end — from discovery to production — using AI agents
 
 ## 🚀 Key Projects & Portfolios
 
+*   **[PONTE](https://github.com/aragaobruno/ponte-showcase) (Tax Pre-Flight for Brazil's 2026 Tax Reform)**  
+    *[Live Demo](https://ponte-cgsz.onrender.com/demo) | Checks a product catalog exported from any ERP against the official IBS/CBS classification table (cClassTrib, CST, LC 214/2025 NCM annexes) and the current NCM list, flagging what the tax authority will reject (1024, 1023, 1025, 778, 611), tax benefits without legal basis and reductions left on the table — then returns the same spreadsheet, corrected. Deterministic rule engine in the browser; the LLM may only pick among codes the table allows for that NCM and must quote the annex text, verified server-side. 100% recall, zero false positives on 12 planted error types; 17/17 correct AI classifications in production, prompt injection ignored.*  
+
 *   **[GARGALO](https://github.com/aragaobruno/gargalo-showcase) (Process Mining with Costs in R$ and Cited AI Answers)**  
     *[Live Demo](https://gargalo.onrender.com/demo) | Reads a process event log (ERP export or spreadsheet) entirely in the browser, maps the real flow, ranks bottlenecks by cost in R$ with their probable cause (resource, weekday, case attribute), and replays history under "what-if" scenarios. The LLM receives only aggregated metrics with anonymized names and must cite the metric behind every number; a client-side verifier flags anything that doesn't match. 3/3 planted bottlenecks found with the right cause across 5 seeds; no false causes on a negative control.*  
     `TypeScript` `Next.js` `In-browser analytics` `Groq / Ollama` `Vitest` `Docker`
