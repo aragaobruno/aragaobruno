@@ -48,6 +48,10 @@ I drive products end-to-end — from discovery to production — using AI agents
 
 ## 🚀 Key Projects & Portfolios
 
+*   **[GARGALO](https://github.com/aragaobruno/gargalo-showcase) (Process Mining with Costs in R$ and Cited AI Answers)**  
+    *[Live Demo](https://gargalo.onrender.com/demo) | Reads a process event log (ERP export or spreadsheet) entirely in the browser, maps the real flow, ranks bottlenecks by cost in R$ with their probable cause (resource, weekday, case attribute), and replays history under "what-if" scenarios. The LLM receives only aggregated metrics with anonymized names and must cite the metric behind every number; a client-side verifier flags anything that doesn't match. 3/3 planted bottlenecks found with the right cause across 5 seeds; no false causes on a negative control.*  
+    `TypeScript` `Next.js` `In-browser analytics` `Groq / Ollama` `Vitest` `Docker`
+
 *   **[GLOSA](https://github.com/aragaobruno/glosa-showcase) (Contract × Invoice Auditor with Verifiable AI)**  
     *[Live Demo](https://glosa-4tap.onrender.com/demo) | Reads a services contract (PDF), checks every line of every invoice and returns overcharges with the clause, the math and the amount to recover — readjustments against official Central Bank indices, SLA credits, cancelled items, duplicates. The LLM only proposes terms; a citation verifier blocks anything not literally in the PDF, and a deterministic engine does the money math. 56/56 planted errors found, 29/29 contract terms extracted correctly in production.*  
     `Next.js` `TypeScript` `Groq / Ollama` `Supabase` `Vitest` `Docker` `Fail-closed AI`
